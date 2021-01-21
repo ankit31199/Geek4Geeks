@@ -1,2 +1,2 @@
 # Geek4Geeks
-A Repository dedicated to notes, solution ,important questions on GeekForGeeks 😉
+A Repository dedicated to notes, my solutions ,important questions on GeekForGeeks 😉
