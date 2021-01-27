@@ -1,3 +1,4 @@
+ ```cpp  
  void deleteAlt(struct Node *head){
      Node *temp,*p;
      if(head==NULL)
@@ -15,3 +16,4 @@
     
          
      }
+```
