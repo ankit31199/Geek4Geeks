@@ -1,4 +1,4 @@
-
+```cpp
 // Function should return 0 is length is even else return 1
 
 int isLengthEvenOrOdd(struct Node* head)
@@ -14,3 +14,4 @@ int isLengthEvenOrOdd(struct Node* head)
      else 
      return 0;
 }
+```
