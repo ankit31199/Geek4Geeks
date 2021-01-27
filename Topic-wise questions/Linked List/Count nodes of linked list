@@ -1,3 +1,5 @@
+```cpp
+
 // head : reference to head of linked list
 
 int getCount(struct Node* head){
@@ -11,3 +13,5 @@ return count;
     
 
 }
+
+```  
