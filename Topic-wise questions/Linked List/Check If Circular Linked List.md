@@ -8,7 +8,7 @@ Two Linked Lists are identical when they have same data and with same arrangemen
 <pre><strong>Input: </strong><span id="example-input-1-1">LinkedList: 1->2->3->4->5
 (the first and last node is connected,
 i.e. 5 --> 1)</span>
-<strong>Output: </strong><span id="example-output-1"> 1
+<strong>Output: </strong><span id="example-output- 1"> 1
 </pre>
 
 <div>
