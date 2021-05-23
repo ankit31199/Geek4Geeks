@@ -2,7 +2,7 @@
 <p>Given a number N, find an integer denoting the smallest number evenly divisible by each number from 1 to n.</p>
 
 <div>
-<p><strong>Example 1:</strong></p> 
+<p><strong>Example 1:</strong></p>  
 
 <pre><strong>Input: </strong><span id="example-input-1-1">
 N=3</span>
